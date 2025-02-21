@@ -1,0 +1,17 @@
+{
+  "title": "3Gatsu Test",
+  "description": "does this work?",
+  "artist": "Umino Chica",
+  "author": "Umino Chica",
+  "cover": "<https://mangadex.org/covers/0ca1627e-95dd-4118-892a-f144adf02256/eab815ea-903c-41a4-a6de-685503e5a36f.jpg.512.jpg>",
+  "chapters": {
+    "<1>": {
+      "title": "work",
+      "volume": "1",
+      "groups": {
+        "<Some Idiot>": "/proxy/api/imgur/chapter/tfRDNgo/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
